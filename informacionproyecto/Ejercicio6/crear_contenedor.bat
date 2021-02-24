@@ -1,0 +1,1 @@
+docker run -e "ACCEPT_EULA=Y" -e "MYSQL_ROOT_PASSWORD=1234" -p 2000:3306 -d --name sqllabo4
